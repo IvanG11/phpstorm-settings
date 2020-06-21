@@ -73,7 +73,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="33">
+        <list size="38">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -107,6 +107,11 @@
           <item index="30" class="java.lang.String" itemvalue="farm-tr" />
           <item index="31" class="java.lang.String" itemvalue="deletefarm" />
           <item index="32" class="java.lang.String" itemvalue="reportsector" />
+          <item index="33" class="java.lang.String" itemvalue="finishreport" />
+          <item index="34" class="java.lang.String" itemvalue="reporteditcheckbox" />
+          <item index="35" class="java.lang.String" itemvalue="reportedithourspartner" />
+          <item index="36" class="java.lang.String" itemvalue="reportedithoursextrapartner" />
+          <item index="37" class="java.lang.String" itemvalue="finisheditreport" />
         </list>
       </value>
     </option>
