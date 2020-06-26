@@ -73,7 +73,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="54">
+        <list size="62">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -128,6 +128,14 @@
           <item index="51" class="java.lang.String" itemvalue="credit-column" />
           <item index="52" class="java.lang.String" itemvalue="invoicing-serie-tr" />
           <item index="53" class="java.lang.String" itemvalue="deleteinvoicingserie" />
+          <item index="54" class="java.lang.String" itemvalue="deleteirrigationreport" />
+          <item index="55" class="java.lang.String" itemvalue="irrigation-report-tr" />
+          <item index="56" class="java.lang.String" itemvalue="investment-tr" />
+          <item index="57" class="java.lang.String" itemvalue="deleteinvestment" />
+          <item index="58" class="java.lang.String" itemvalue="deleteexpense" />
+          <item index="59" class="java.lang.String" itemvalue="expense-tr" />
+          <item index="60" class="java.lang.String" itemvalue="deletesale" />
+          <item index="61" class="java.lang.String" itemvalue="sale-tr" />
         </list>
       </value>
     </option>
