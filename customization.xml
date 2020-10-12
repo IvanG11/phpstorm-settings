@@ -10,24 +10,10 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Stop" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="3">
@@ -36,11 +22,18 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="3">
+    <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Ignore.File" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="VCS" />
+      <path value="VCS Group" />
+      <path value="Git" />
+      <path value="GitFileActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Coverage" is_action="true" action_type="-1" position="2">
@@ -50,11 +43,9 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
+    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
@@ -70,13 +61,6 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Run" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -84,11 +68,19 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VcsToolbarLabelAction" is_action="true" action_type="-1" position="0">
+    <group value="VcsToobarActions" is_group="true" action_type="-1" position="0">
       <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Ignore.File" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="VCS" />
+      <path value="VCS Group" />
+      <path value="Git" />
+      <path value="GitFileActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
