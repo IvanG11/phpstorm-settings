@@ -25,6 +25,9 @@
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate" />
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="GotoTest" />
@@ -36,6 +39,7 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ResizeToolWindowRight" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -59,6 +63,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift meta right" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
