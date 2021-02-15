@@ -87,7 +87,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="31">
+        <list size="34">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -119,6 +119,9 @@
           <item index="28" class="java.lang.String" itemvalue="form-select" />
           <item index="29" class="java.lang.String" itemvalue="form-button" />
           <item index="30" class="java.lang.String" itemvalue="form-simple-select" />
+          <item index="31" class="java.lang.String" itemvalue="x-responsive-nav-link" />
+          <item index="32" class="java.lang.String" itemvalue="x-nav-link" />
+          <item index="33" class="java.lang.String" itemvalue="x-application-logo" />
         </list>
       </value>
     </option>
