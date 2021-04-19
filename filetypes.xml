@@ -1,12 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="FlashMessage" type="AUTO_DETECTED" />
       <mapping pattern=".php-cs" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="movies.php" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="index-journal" type="PLAIN_TEXT" />
+      <mapping ext="blade,php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
