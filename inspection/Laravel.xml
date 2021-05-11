@@ -90,7 +90,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="39">
+        <list size="44">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -130,6 +130,11 @@
           <item index="36" class="java.lang.String" itemvalue="drawing-accordion-variants" />
           <item index="37" class="java.lang.String" itemvalue="drawing-accordion-kits" />
           <item index="38" class="java.lang.String" itemvalue="drawing-accordion-substitucions" />
+          <item index="39" class="java.lang.String" itemvalue="rate-import-modal" />
+          <item index="40" class="java.lang.String" itemvalue="pagination" />
+          <item index="41" class="java.lang.String" itemvalue="rate-tr" />
+          <item index="42" class="java.lang.String" itemvalue="uploader" />
+          <item index="43" class="java.lang.String" itemvalue="error-message" />
         </list>
       </value>
     </option>
