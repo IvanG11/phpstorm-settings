@@ -90,7 +90,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="44">
+        <list size="45">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -135,6 +135,7 @@
           <item index="41" class="java.lang.String" itemvalue="rate-tr" />
           <item index="42" class="java.lang.String" itemvalue="uploader" />
           <item index="43" class="java.lang.String" itemvalue="error-message" />
+          <item index="44" class="java.lang.String" itemvalue="form-textarea" />
         </list>
       </value>
     </option>
