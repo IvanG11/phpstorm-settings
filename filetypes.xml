@@ -6,6 +6,7 @@
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="movies.php" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="index-journal" type="PLAIN_TEXT" />
