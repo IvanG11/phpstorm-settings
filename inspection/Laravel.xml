@@ -155,14 +155,13 @@
   <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="CODING_STANDARD" value="Custom" />
-    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/Sites/empresas.hashingproof/.php_cs" />
+    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/Sites/motorecambiosnorte/.php-cs-fixer.php" />
   </inspection_tool>
   <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="REPORT_MISSING_ROAVE_ADVISORIES" value="false" />
     <option name="optionConfiguration">
