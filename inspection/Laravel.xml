@@ -101,7 +101,7 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="45">
+        <list size="47">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
@@ -147,6 +147,8 @@
           <item index="42" class="java.lang.String" itemvalue="uploader" />
           <item index="43" class="java.lang.String" itemvalue="error-message" />
           <item index="44" class="java.lang.String" itemvalue="form-textarea" />
+          <item index="45" class="java.lang.String" itemvalue="drawing-buy-substitucion-modal" />
+          <item index="46" class="java.lang.String" itemvalue="drawing-button-buy" />
         </list>
       </value>
     </option>
