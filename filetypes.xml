@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".php-cs" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="index-journal" type="PLAIN_TEXT" />
       <mapping ext="blade,php" type="PLAIN_TEXT" />
     </extensionMap>
