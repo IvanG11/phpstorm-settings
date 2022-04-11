@@ -1,16 +1,22 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Spanish" />
+      </set>
+    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="the Illuminate" />
             <option value="The expire" />
             <option value="been setup" />
+            <option value="customize some of the middleware" />
             <option value="the Fortify" />
+            <option value="the Illuminate" />
             <option value="these middleware" />
             <option value="you a" />
-            <option value="customize some of the middleware" />
           </set>
         </option>
       </SuppressingContext>
