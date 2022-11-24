@@ -4,14 +4,15 @@
       <mapping pattern="CreateQrCodePdfAction.php" type="AUTO_DETECTED" />
       <mapping pattern="constants" type="AUTO_DETECTED" />
       <mapping pattern="FlashMessage" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".github" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="movies.php" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".php-cs" type="PLAIN_TEXT" />
       <mapping ext="index-journal" type="PLAIN_TEXT" />
       <mapping ext="blade,php" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
