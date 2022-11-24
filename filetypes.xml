@@ -4,7 +4,6 @@
       <mapping pattern="CreateQrCodePdfAction.php" type="AUTO_DETECTED" />
       <mapping pattern="constants" type="AUTO_DETECTED" />
       <mapping pattern="FlashMessage" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".github" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="movies.php" type="PLAIN_TEXT" />
